@@ -1,4 +1,4 @@
-# **Once UI for Next.js**
+# **Once UI for Next.js test**
 
 <span style="font-size: 22px;">Once UI is a lightweight, versatile design system with easy customization and practical components.
 <br>
